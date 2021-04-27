@@ -7,6 +7,3 @@ local serversocket.
 
 Just create a model folder in com folder and add all ".java" files
 then use compile and start working with it.
-
-Created by Amir hossein Najafizadeh 09-05-2020
-Contact me : najafizadeh21@gmail.com
